@@ -26,4 +26,4 @@ This project is a live example of my ability to leverage **AI Agents** (ChatGPT,
 
 ---
 *Developed by John Keppe – Beckley, WV*  
-[Portfolio Site](https://sites.google.com/view/johnkeppe)
+[Resume Site](https://keppejhn.github.io/resume)
